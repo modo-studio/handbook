@@ -64,9 +64,6 @@ Integrations are important, there are tones of great services out there that can
 ##### Automation
 
 Process automation saves a lot of time and we love to **automate all the things**!
-
-![](https://avatars0.githubusercontent.com/u/16477209?v=3&s=200)
-
 Almost everything can be automated through scripts. Process like deploy and distribute a Beta, publish a new version in the Store, check that a Pull Request doesn't break anything. There is tones of things that can be automated and we love to automate them all!
 
 ##### Sharing Knowledge
@@ -106,7 +103,7 @@ We use [appear.in](http://appear.in) for video call communications. We have a bl
 
 [WIP]
 
-## :microphone2: Meetings
+## :microphone: Meetings
 
 ### Weekly Meeting
 
@@ -118,7 +115,7 @@ We use [appear.in](http://appear.in) for video call communications. We have a bl
 
 [WIP]
 
-## :fox: Workflow
+## Workflow
 
 [WIP]
 
@@ -128,7 +125,7 @@ When any coding work needs help from two or more people we should encourage pair
 
 If you are in remote, there's a tool, [Screenhero](https://screenhero.com/) that makes it possible. If you don't have account, ask to anyone in the team for one. With the tool you can share one's screen, and both control the keyboard and the mouse.
 
-## :tools: Tools and Tips
+## :triangular_ruler: Tools and Tips
 
 [WIP] Investigate or explain:
 Calendly, Shush, Disabling OS X Notification Center, Zoom, Email Signature,
