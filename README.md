@@ -15,8 +15,8 @@
  - [Weekly Meeting](#weekly-meetings)
  - [Daily Meeting](#daily-meeting)
  - [Release Retrospective](#release-retrospective)
-- [Gitlab Workflow](#-gitlab-workflow)
-- [Tools & Tips](#-tools-and-tips)
+- [Workflow](#workflow)
+- [Tools & Tips](#tools-and-tips)
 
 ----
 
