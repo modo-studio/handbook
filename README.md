@@ -16,7 +16,7 @@
  - [Daily Meeting](#daily-meeting)
  - [Release Retrospective](#release-retrospective)
 - [Workflow](#workflow)
-- [Tools & Tips](#tools-and-tips)
+- [Tools and Tips](#tools-and-tips)
 
 ----
 
@@ -125,7 +125,7 @@ When any coding work needs help from two or more people we should encourage pair
 
 If you are in remote, there's a tool, [Screenhero](https://screenhero.com/) that makes it possible. If you don't have account, ask to anyone in the team for one. With the tool you can share one's screen, and both control the keyboard and the mouse.
 
-## :triangular_ruler: Tools and Tips
+## Tools and Tips
 
 [WIP] Investigate or explain:
 Calendly, Shush, Disabling OS X Notification Center, Zoom, Email Signature,
