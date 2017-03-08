@@ -2,19 +2,22 @@
 
 ### Contents
 
-- [Products](#-products)
+- [Products](#products)
  - [Full Apps]()
  - [Design]()
  - [Development]()
-- [Communication](#-communication)
+- [Communication](#communication)
  - [Internal Communication](#internal-communication)
  - [Chat](#chat)
  - [Video Calls](#view-calls)
  - [Google Docs](#google-docs)
-- [Meetings](#-meetings)
+- [Meetings](#meetings)
  - [Weekly Meeting](#weekly-meetings)
  - [Daily Meeting](#daily-meeting)
  - [Release Retrospective](#release-retrospective)
+- [Engineering](#meetings)
+ - [Continuous Integration](#continuous-integration)
+ - [Pair programming](#pair-programming)
 - [Workflow](#workflow)
 - [Tools and Tips](#tools-and-tips)
 
@@ -115,15 +118,28 @@ We use [appear.in](http://appear.in) for video call communications. We have a bl
 
 [WIP]
 
-## Workflow
+## Engineering
 
-[WIP]
+### Continuous Integration
+
+Depending on the project we use the following continuous integration setups:
+
+##### Open Source projects
+If it's an open source project we use [Travis-CI](https://travis-ci.org). Contributors can access the build outputs and debug builds by themselves. When a new repository gets integrated with Travis, the build badge should be added to the `README.md` of the project to show the state of master.
+
+##### Private projects
+For private projects we use [Jenkins](https://jenkins.io). As engineer of Caramba, you should have been given the CI server acces data. [Caramba](https://github.com/carambalabs) GitHub organization is scanned periodically by Jenkins. Whenever a new repo is added with a [Jenkinsfile](https://jenkins.io/doc/book/pipeline/jenkinsfile/), Jenkins will index it and try to build it.
+
+You can find some examples of `travis.yml` and `Jenkinsfile` by exploring the organization repositories.
+
+Any engineer at Caramba is responsible for ensuring a good state on CI platforms. If you find a broken build, or you broke by yourself you should fix it to prevent the  team or contributors from getting blocked by a broken CI.
 
 ### Pair programming
 
 When any coding work needs help from two or more people we should encourage pair programming on the task. With more than one person working on the same issue, the quality of the work is higher and it's easier to identify issues in the implementation. Try to pair with someone that has more context on the issue that you are currently working on.
 
 If you are in remote, there's a tool, [Screenhero](https://screenhero.com/) that makes it possible. If you don't have account, ask to anyone in the team for one. With the tool you can share one's screen, and both control the keyboard and the mouse.
+
 
 ## Tools and Tips
 
