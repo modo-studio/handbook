@@ -6,6 +6,7 @@
  - [Full Apps]()
  - [Design]()
  - [Development]()
+- [Design Guide](#rainbow-design-guide)
 - [Communication](#-communication)
  - [Internal Communication](#internal-communication)
  - [Chat](#chat)
