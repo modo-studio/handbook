@@ -70,6 +70,46 @@ Almost everything can be automated through scripts. Process like deploy and dist
 
 Experiences and knowledge must be shared, it's the only way to grow. We love to share what we've learnt so far. We can organize talks or workshops designed for the client needs.
 
+## Design process of a digital product
+
+##### Branding
+
+- Research of visual referents and inspiration from different branding examples.
+- Design of several proposals based on the previous research and iteration of them.
+- Creation of a _____ based on the logo.
+- Definition of brand colors.
+- Selection of the brand font family.
+- Creation of different applications for the branding elements (social networks profiles, business cards, merchandising...).
+
+##### User Experience Design
+
+- Investigation of similar apps and study of how they are structured.
+- Definition of app general structure and navigation flows.
+- Wireframes design in order to place functionalities and organise the content.
+
+##### Prototyping
+
+- Creation of a prototype from the wireframes to make possible the navigation and interaction.
+
+##### User Testing
+
+- Design and execution of tests to validate the usability of the prototype.
+
+##### User Interface Design
+
+- Research of visual references, examples and inspiration.
+- Visual design of screens, controls, iconography and all other elements composing the app.
+
+##### Interaction Design
+
+- Definition of how elements react to user interaction and give visual feedback.
+- Design of transitions between screens and components.
+
+##### Marketing
+
+- Design of all necessary elements for the stores.
+- Campaigns design for social networks, banners, ads...
+
 ## :mailbox: Communication
 
 ### Internal Communication
