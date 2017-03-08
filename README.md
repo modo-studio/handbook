@@ -121,7 +121,7 @@ We use [appear.in](http://appear.in) for video call communications. We have a bl
 ## Engineering
 
 ### Open Source
-At Caramba we embrace the open value whenever it's possible, for example, when it's not a project for a client. Some examples of good candidates for open sourcing would be command line tools, example apps, libraries... Before deciding for open sourcing a project it should be proposed to the team, and once decided, the project should commit to these guidelines:
+At Caramba we embrace the open value whenever it's possible, for example, when it's not a project for a client. Some examples of good candidates for open sourcing would be: command line tools, example apps and libraries. Before deciding for open sourcing a project, it should be proposed to the team, and once decided, the project should commit to these guidelines:
 
 - The project should include a `LICENSE` file. By default, we'll share the projects with the [MIT License](https://opensource.org/licenses/MIT).
 - The project should include  `README` file with:
@@ -131,7 +131,7 @@ At Caramba we embrace the open value whenever it's possible, for example, when i
   - A section at the bottom about Caramba. You can copy it from another open source repository.
   - A few examples that show how to use the project.
   - If you used external resources, like articles, documentation, libraries, include them in a references section.
-- Dependencies should be explicit in a dependencies file. For example, if you use Ruby .dependencies, specify them in a `Gemfile`. Similarly with CocoaPods and the `Podfile` and npm and its `package.json`.
+- Dependencies should be explicit in a dependencies file. For example, if you use Ruby .dependencies, specify them in a `Gemfile`. Similarly with CocoaPods and the `Podfile`, and npm and its `package.json`.
 - It should include a continuous integration setup that builds and runs the project tests. If the CI service provides a badge, include it at the top of the `README` file.
 - Issues should be enabled.
 - Enable the Wiki only if there's content, otherwise keep it closed.
