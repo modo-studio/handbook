@@ -6,6 +6,7 @@
  - [Full Apps]()
  - [Design]()
  - [Development]()
+- [Design Guide](#rainbow-design-guide)
 - [Communication](#communication)
  - [Internal Communication](#internal-communication)
  - [Chat](#chat)
@@ -72,6 +73,50 @@ Almost everything can be automated through scripts. Process like deploy and dist
 ##### Sharing Knowledge
 
 Experiences and knowledge must be shared, it's the only way to grow. We love to share what we've learnt so far. We can organize talks or workshops designed for the client needs.
+
+## :rainbow: Design Guide
+
+The Design Guide documents our principles, processes and design strategy.
+
+### Processes
+
+##### Branding
+
+1. Research of visual referents and inspiration from different branding examples.
+2. Design of several proposals based on the previous research and iteration of them.
+3. Creation of the final app icon and logo.
+4. Definition of brand colors.
+5. Selection of the brand font family.
+6. Creation of different applications for the branding elements (social networks profiles, business cards, merchandising...).
+
+##### User Experience Design
+
+1. Investigation of similar apps and study of how they are structured.
+2. Definition of app general structure and navigation flows.
+3. Wireframes design in order to place functionalities and organise the content.
+
+##### Prototyping
+
+1. Creation of a prototype from the wireframes to make possible the navigation and interaction.
+
+##### User Testing
+
+1. Design and execution of tests to validate the usability of the prototype.
+
+##### User Interface Design
+
+1. Research of visual references, examples and inspiration.
+2. Visual design of screens, controls, iconography and all other elements composing the app.
+
+##### Interaction Design
+
+1. Definition of how elements react to user interaction and give visual feedback.
+2. Design of transitions between screens and components.
+
+##### Marketing
+
+1. Design of all necessary elements for the stores.
+2. Campaigns design for social networks, banners, ads...
 
 ## :mailbox: Communication
 
