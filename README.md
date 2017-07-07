@@ -165,6 +165,31 @@ We use [appear.in](http://appear.in) for video call communications. We have a bl
 
 ## Engineering
 
+### Open Source
+At Caramba we embrace the open value whenever it's possible, for example, when it's not a project for a client. Some examples of good candidates for open sourcing would be: command line tools, example apps and libraries. Before deciding for open sourcing a project, it should be proposed to the team, and once decided.
+
+##### Repository setup
+The project repository should:
+- Include a [MIT](https://opensource.org/licenses/MIT) `LICENSE.md` file.
+- Include a `README.md` file with:
+  - Project features *(language, platform, what's the project solving/helping with)*.
+  - Setup steps.
+  - Contribution steps.
+  - How to use it *(examples)*.
+  - References *(resources, articles, documentations)*.
+  - About section *(about Caramba).*
+- Specify its dependencies in a file *(e.g. Podfile, Gemfile, package.json...)*.
+- Be integrated with a CI system *(preferably [travis-ci](https://travis-ci.org))*.
+- Have issues enabled with Caramba labels *(you can clone them from another repository)*.
+- Have wiki enabled only if there's content in it.
+
+##### Maintenance
+- When a new issue/PR is created by an external contributor, a person from the team should tag the issue/PR accordingly.
+- A new task in the backlog has to be created to prioritize it in the next planning meeting.
+- In the next planning the team will decide who will be the person tackling the issue/PR.
+
+Any contribution on the open source repositories has to commit to the [code of conduct](https://github.com/carambalabs/Foundation/blob/master/CONDUCT.md) and the [contribution](https://github.com/carambalabs/Foundation/blob/master/CONTRIBUTING.md) guidelines.
+
 ### Continuous Integration
 
 Depending on the project we use the following continuous integration setups:
