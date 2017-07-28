@@ -24,6 +24,14 @@
 
 ----
 
+## :family: Team
+
+Caramba is a small nice family with a lot of friends that help us to create amazing products. These are the main roles:
+
+- @sergigracia Project Lead: responsible for Clients Communication and Projects Management.
+- @anabangueses Design Lead: responsible for Design Process, Branding and Visibility.
+- @isaacroldan Tech Lead: responsible for Technical Process and Technologies.
+
 ## :bento: Products
 
 Caramba offers to the world 3 different kind of products: Full App Experiences, App Design and App Development. In the branches of App Design and App Development there are a lot of sub-products.
