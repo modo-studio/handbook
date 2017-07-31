@@ -2,27 +2,37 @@
 
 ### Contents
 
+- [Team](#-team)
 - [Products](#products)
- - [Full Apps]()
- - [Design]()
- - [Development]()
+  - [Full Apps]()
+  - [Design]()
+  - [Development]()
 - [Design Guide](#rainbow-design-guide)
 - [Communication](#communication)
- - [Internal Communication](#internal-communication)
- - [Chat](#chat)
- - [Video Calls](#view-calls)
- - [Google Docs](#google-docs)
+  - [Internal Communication](#internal-communication)
+  - [Chat](#chat)
+  - [Video Calls](#view-calls)
+  - [Google Docs](#google-docs)
 - [Meetings](#meetings)
- - [Weekly Meeting](#weekly-meetings)
- - [Daily Meeting](#daily-meeting)
- - [Release Retrospective](#release-retrospective)
+  - [Weekly Meeting](#weekly-meetings)
+  - [Daily Meeting](#daily-meeting)
+  - [Release Retrospective](#release-retrospective)
 - [Engineering](#meetings)
- - [Continuous Integration](#continuous-integration)
- - [Pair programming](#pair-programming)
+  - [Continuous Integration](#continuous-integration)
+  - [Pair programming](#pair-programming)
 - [Workflow](#workflow)
 - [Tools and Tips](#tools-and-tips)
 
 ----
+
+## :family: Team
+
+Caramba is a small nice family with a lot of friends that help us to create amazing products. These are the main roles:
+
+- @sergigracia Project Lead: responsible for Clients Communication and Projects Management.
+- @anabangueses Design Lead: responsible for Design Process, Branding and Visibility.
+- @isaacroldan Tech Lead: responsible for Technical Process and Technologies.
+- @pepibumur Open Source Lead: responsible for Open Source projects management and tech blog & social media accounts.
 
 ## :bento: Products
 
