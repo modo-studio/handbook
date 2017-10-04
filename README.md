@@ -193,6 +193,18 @@ The project repository should:
 - Have issues enabled with Caramba labels *(you can clone them from another repository)*.
 - Have wiki enabled only if there's content in it.
 
+##### Automation
+By default, all the organization repositories are integrated with the following [GitHub probots](https://probot.github.io) to automate certain tasks:
+
+-  [**Stale**](https://probot.github.io/apps/stale/): Close stale issues and PRs.
+- [**Welcome**](https://probot.github.io/apps/welcome/): Welcomes new contributors.
+- [**Sentiment Bot**](https://probot.github.io/apps/sentiment-bot/): Replies to toxic comments with a maintainer designated reply and a link to the repo's code of conduct.
+- [**Reminders**](https://probot.github.io/apps/reminders/): Reminders
+reminders for Issues and Pull Requests.
+- [**Work in Progress**](https://probot.github.io/apps/wip/): Prevent merging of Pull Requests with "WIP" in the title.
+
+Some of them require some settings that need to be included in the repository `.github` folder. You can find the base configuration that is recommended for the open source projects [here](https://github.com/carambalabs/Foundation/tree/master/.github).
+
 ##### Maintenance
 - When a new issue/PR is created by an external contributor, a person from the team should tag the issue/PR accordingly.
 - A new task in the backlog has to be created to prioritize it in the next planning meeting.
