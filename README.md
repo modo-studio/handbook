@@ -29,10 +29,10 @@
 
 Caramba is a small nice family with a lot of friends that help us to create amazing products. These are the main roles:
 
-- @sergigracia Project Lead: responsible for Clients Communication and Projects Management.
-- @anabangueses Design Lead: responsible for Design Process, Branding and Visibility.
-- @isaacroldan Tech Lead: responsible for Technical Process and Technologies.
-- @pepibumur Open Source Lead: responsible for Open Source projects management and tech blog & social media accounts.
+- [@sergigracia](https://github.com/sergigracia) Project Lead: responsible for Clients Communication and Projects Management.
+- [@anabangueses](https://github.com/anabangueses) Design Lead: responsible for Design Process, Branding and Visibility.
+- [@isaacroldan](https://github.com/isaacroldan) Tech Lead: responsible for Technical Process and Technologies.
+- [@pepibumur](https://github.com/pepibumur) Open Source Lead: responsible for Open Source projects management and tech blog & social media accounts.
 
 ## :bento: Products
 
